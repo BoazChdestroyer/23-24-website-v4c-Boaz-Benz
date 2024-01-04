@@ -17,3 +17,78 @@
 /************************* YOUR SETTINGS *************************/
 
 /* add your css here, feel free to use comments and order them logically for better readability */
+footer{
+   width: 1100px;
+   height: 50px;
+   color: #000000;
+   background-color: #e8ffff;
+   font-size: 24px;
+   margin: 15px 0px 0px 0px;
+   float: left;
+}
+
+header {
+width: 1100px;
+height: 75px;
+font-family: times;
+color: #000000;
+font-size: 24px;
+background-color: #e8ffff;
+margin: 0px;
+}
+
+nav {
+   width: 1100px;
+   height: 40px;
+   color: #000000;
+   background-color: #fbf7e4ff;
+   font-size: 24px;
+   margin: 10px 0px 10px 0px;
+}
+
+#boven{
+width: 1100px;
+height: 25px;
+font-size: 14px;
+color: #000000;
+background-color: #fbf7e4ff;
+margin: 0px 0px 10px 0px;
+}
+
+article{
+   width: 750px;
+   height: 250px;
+   font-size: 18px;
+   color: #000000;
+   background-color: #fbf7e4ff;
+   margin: 0px;
+}
+
+.article-left {
+float:left;
+}
+
+.article-right {
+float: right;
+}
+
+#image1, #image3{
+   float: left;
+   background-color: red;
+   width: 350px;
+   height: 250px;
+}
+
+#image2, #image4{
+   float: right;
+   background-color: red;
+   width: 350px;
+   height: 250px;
+}
+
+
+
+#wrapper{
+   width: 1100px;
+   height: 1300px;
+}
