@@ -45,7 +45,7 @@ header
   height: 550px; 
   font-family: handel gothic; 
   color: #000000; 
-  font-size: 9px; 
+  font-size: 18px; 
   background-color: #fbf7e4ff; 
   margin: 5px 15px 15px 0px;
   float: right;
@@ -62,4 +62,11 @@ header
   margin: 0px 15px 15px 15px;
   float: left;
   text-align: center
+}
+
+#buynow
+{ 
+ width: 400px;
+ height: 200px;
+ float: auto;
 }

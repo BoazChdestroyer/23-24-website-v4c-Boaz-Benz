@@ -37,7 +37,7 @@ header
   background-color: #fbf7e4ff; 
   margin: 15px 15px 0px 0px;
   float: right;
-  text-align: center
+  text-align: center;
 }
 #article2
 {
@@ -62,4 +62,11 @@ header
   margin: 0px 15px 15px 15px;
   float: left;
   text-align: center
+}
+
+#buynow
+{ 
+ width: 400px;
+ height: 200px;
+ float: auto;
 }
