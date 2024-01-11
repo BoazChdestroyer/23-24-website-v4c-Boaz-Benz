@@ -91,6 +91,7 @@ float: right;
 #wrapper{
    width: 1100px;
    height: 1300px;
+   margin: auto;
 }
 
 #big a
