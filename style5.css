@@ -64,3 +64,10 @@ header
   float: left;
   text-align: center
 }
+
+#buynow
+{ 
+ width: 400px;
+ height: 200px;
+ float: auto;
+}
