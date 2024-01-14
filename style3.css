@@ -9,7 +9,7 @@ header
   height: 75px; 
   font-family: handel gothic; 
   color: #000000; 
-  font-size: 24px;
+  font-size: 35px;
   background-color: #e8ffff;
   margin: 0px 0px 15px 0px;
   text-align: center;
@@ -65,7 +65,7 @@ header
   text-align: center
 }
 
-knop 
+.knop 
 {
  font-size: 18px;
  font-weight: 700;
