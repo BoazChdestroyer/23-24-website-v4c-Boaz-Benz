@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Samenvatting</title>
+    <link href="style6.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <header>
+        Viral TikTok products
+      </header>
+  
+      <nav id="big">
+        <a href="index.html">Home   
+        </a>
+        <a href= index2.html>TikTok Scroller
+        </a>
+        <a href="index3.html">Mini Movieprojector
+        </a>
+        <a href="index4.html">Rideable Trolley
+        </a>
+        <a href="index5.html">Breathing Bear
+        </a>
+      </nav>
+      <main>
+        <button class="knop">Klik hier voor een samenvatting over security(E2) §1-4.</button>
+      </main>
+      <fo…
