@@ -42,7 +42,7 @@ header
   margin: 15px 15px 0px 0px;
   float: right;
   text-align: center;
-  padding-bottom: 25px;
+  box-shadow: rgba(0,0,0,0.403) 0px 3px 3px;
 }
 
 #article2
