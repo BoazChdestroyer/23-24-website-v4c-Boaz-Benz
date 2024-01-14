@@ -124,3 +124,9 @@ nav {
   float: left;
   text-align: center;
  }
+
+ #prijs
+ {
+  font-weight: bold;
+  font-size: 25px;
+ }
