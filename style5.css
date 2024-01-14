@@ -87,6 +87,7 @@ knop
  transition: all 0.3s
 }
 
+
 .knop:hover
 {
  transform: translateY(-10px);
