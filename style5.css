@@ -65,14 +65,7 @@ header
   text-align: center
 }
 
-#buynow
-{ 
- width: 400px;
- height: 200px;
- float: auto;
-}
-
-knop 
+.knop 
 {
  font-size: 18px;
  font-weight: 700;
@@ -101,9 +94,9 @@ knop
    display: inline-block;
    gap: 5px;
    color: #000000;
-   font-size: 20px;
+   font-size: 18px;
    text-align: center;
-   width: 19%;
+   width: 16%;
    height: 40px;
    text-decoration: none;
    line-height:40px;
