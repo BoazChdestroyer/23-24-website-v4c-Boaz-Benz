@@ -52,6 +52,8 @@ main {
 {
     font-size: 50px;
     font-weight: 1100;
+    writing-mode:vertical-rl;
+    padding: 0px 30px 0px 0px;
 }
 .knop
 {
