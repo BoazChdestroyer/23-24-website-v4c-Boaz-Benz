@@ -116,3 +116,14 @@ footer{
    float: left;
    text-align: center;
 }
+
+#linkje
+{
+   text-decoration: none;
+   color: black;
+}
+
+#linkje:hover
+{
+   text-decoration: underline;
+}

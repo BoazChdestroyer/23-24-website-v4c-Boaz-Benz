@@ -63,7 +63,7 @@ header
   background-color: #fbf7e4ff; 
   margin: 0px 15px 15px 15px;
   float: left;
-  text-align: center
+  text-align: center;
 }
 
 .knop 
@@ -124,4 +124,10 @@ nav {
   margin: 15px 0px 0px 0px;
   float: left;
   text-align: center;
+ }
+
+ #prijs
+ {
+  font-weight: bold;
+  font-size: 25px;
  }

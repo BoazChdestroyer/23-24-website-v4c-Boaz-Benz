@@ -9,9 +9,9 @@ header
   height: 75px; 
   font-family: handel gothic; 
   color: #000000; 
-  font-size: 35px;
+  font-size: 30px;
   background-color: #e8ffff;
-  margin: 0px;
+  margin: 0px 0px 15px 0px;
   text-align: center;
 }
 #wrapper
@@ -112,6 +112,7 @@ nav {
   width: 100%;
   background-color: white;
   border-radius: 20px;
+  text-align: center;
 }
 
 footer{
