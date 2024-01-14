@@ -57,7 +57,7 @@ margin: 0px 0px 10px 0px;
 }
 
 article{
-   width: 75%;
+   width: 73%;
    height: 250px;
    font-size: 30px;
    color: #000000;
@@ -77,14 +77,14 @@ float: right;
 #image1, #image3{
    float: left;
    background-color: red;
-   width: 350px;
+   width: 27%;
    height: 250px;
 }
 
 #image2, #image4{
    float: right;
    background-color: red;
-   width: 350px;
+   width: 27%;
    height: 250px;
 }
 
