@@ -112,6 +112,7 @@ float: right;
 background-color: #e8ffff;
 text-decoration: underline;
 }
+
 #image1, #image2, #image3, #image4: hover
 {
    transform: scale(1.02)
