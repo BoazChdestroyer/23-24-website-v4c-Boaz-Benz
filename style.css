@@ -117,10 +117,12 @@ footer{
    height: 50px;
    color: #000000;
    background-color: #e8ffff;
-   font-size: 24px;
+   font-size: 20px;
    margin: 15px 0px 0px 0px;
    float: left;
    text-align: center;
+   padding-top: 25px;
+   font-weight: bold;
 }
 
 #linkje
