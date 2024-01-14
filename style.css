@@ -18,7 +18,7 @@
 
 /* add your css here, feel free to use comments and order them logically for better readability */
 footer{
-   width: 1100px;
+   width: 100%;
    height: 50px;
    color: #000000;
    background-color: #e8ffff;
@@ -29,7 +29,7 @@ footer{
 }
 
 header {
-width: 1100px;
+width: 100%;
 height: 75px;
 font-family: times;
 color: #000000;
@@ -40,14 +40,15 @@ text-align: center;
 }
 
 nav {
+      text-align: center;
       width: 100%;
       background-color: white;
       margin: 10px 0px 10px 0px;
       border-radius: 20px
   }
 
-#boven{
-width: 1100px;
+#boven {
+width: 100%;
 height: 25px;
 font-size: 14px;
 color: #000000;
@@ -56,7 +57,7 @@ margin: 0px 0px 10px 0px;
 }
 
 article{
-   width: 750px;
+   width: 75%;
    height: 250px;
    font-size: 30px;
    color: #000000;
@@ -90,8 +91,7 @@ float: right;
 
 
 #wrapper{
-   width: 1100px;
-   height: 1300px;
+   width: 100%;
    margin: auto;
 }
 
@@ -103,7 +103,7 @@ float: right;
    color: #000000;
    font-size: 20px;
    text-align: center;
-   width: 19%;
+   width: 16%;
    height: 40px;
    text-decoration: none;
    line-height:40px;
@@ -115,6 +115,4 @@ float: right;
    background-color: #e8ffff;
    text-decoration: underline;
 }
-
-#image1, #image2, #image3, #image4: hover
 
