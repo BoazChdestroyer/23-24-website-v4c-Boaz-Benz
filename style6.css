@@ -40,7 +40,7 @@ nav
 
 .knop
 {
- font-size: 18px;
+ font-size: 35px;
  font-weight: 700;
  padding: 0.5em 1em;
  color: #28a9a9;
@@ -51,7 +51,7 @@ nav
  transition-duration: 0,3s;
  transition-timing-function: ease;
  transition: all 0.3s;
- animation: fade 3s ease-in 2s;
+ animation: fade 2s ease-in 2s;
 }
 
 .knop:hover
