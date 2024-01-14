@@ -37,18 +37,19 @@ header
   width: 55%;
   height: 50px; 
   color: #000000; 
-  font-size: 18px; 
+  font-size: 25px;
   background-color: #fbf7e4ff; 
   margin: 15px 15px 0px 0px;
   float: right;
-  text-align: center
+  text-align: center;
+  padding-bottom:25px;
 }
 #article2
 {
   width: 55%;
   height: 550px; 
   color: #000000; 
-  font-size: 18px; 
+  font-size: 22px; 
   background-color: #fbf7e4ff; 
   margin: 5px 15px 15px 0px;
   float: right;
