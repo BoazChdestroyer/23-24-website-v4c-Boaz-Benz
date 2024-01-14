@@ -43,6 +43,7 @@ header
   margin: 15px 15px 0px 0px;
   float: right;
   text-align: center;
+  box-shadow: rgba(0,0,0,0.403) 0px 3px 3px;
 }
 #article2
 {
@@ -53,7 +54,8 @@ header
   background-color: #fbf7e4ff; 
   margin: 5px 15px 15px 0px;
   float: right;
-  text-align: center
+  text-align: center;
+  box-shadow: rgba(0,0,0,0.403) 0px 10px 20px;
 }
 #article3
 {
@@ -65,6 +67,7 @@ header
   margin: 0px 15px 15px 15px;
   float: left;
   text-align: center;
+  box-shadow: rgba(0,0,0,0.403) 0px 10px 20px;
 }
 
 .knop 
@@ -79,7 +82,8 @@ header
  transition-property: transform;
  transition-duration: 0,3s;
  transition-timing-function: ease;
- transition: all 0.3s
+ transition: all 0.3s;
+ text-align: center;
 }
 
 .knop:hover

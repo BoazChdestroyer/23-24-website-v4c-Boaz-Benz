@@ -42,6 +42,7 @@ header
   margin: 15px 15px 0px 0px;
   float: right;
   text-align: center;
+  padding-bottom:25px;
 }
 #article2
 {
@@ -52,7 +53,8 @@ header
   background-color: #fbf7e4ff; 
   margin: 5px 15px 15px 0px;
   float: right;
-  text-align: center
+  text-align: center;
+  box-shadow: rgba(0,0,0,0.403) 0px 10px 20px;
 }
 #article3
 {
@@ -63,7 +65,8 @@ header
   background-color: #fbf7e4ff; 
   margin: 0px 15px 15px 15px;
   float: left;
-  text-align: center
+  text-align: center;
+  box-shadow: rgba(0,0,0,0.403) 0px 10px 20px;
 }
 
 .knop 
